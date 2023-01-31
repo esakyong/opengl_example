@@ -1,0 +1,14 @@
+# Target labels
+ dep_spdlog
+# Source files and their labels
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_spdlog
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/1392f37aa82498c65f01fbd23a084574/dep_spdlog.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/c9ffe6a544df65784ccdcbe9af9d443b/dep_spdlog-complete.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-build.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-configure.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-download.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-install.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-mkdir.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-patch.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-test.rule
+D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-update.rule

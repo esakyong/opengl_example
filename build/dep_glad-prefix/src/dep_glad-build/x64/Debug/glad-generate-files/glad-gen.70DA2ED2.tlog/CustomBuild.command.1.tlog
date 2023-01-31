@@ -1,0 +1,32 @@
+^D:\GRAPHICS\RINTHEL_KWON\OPENGL_EXAMPLE\BUILD\DEP_GLAD-PREFIX\SRC\DEP_GLAD-BUILD\CMAKEFILES\FACB259A3B4E61E9458993F8E5F576F9\GLAD.C.RULE
+setlocal
+cd D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glad-prefix\src\dep_glad
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\isaac.ISAAC\AppData\Local\Programs\Python\Python310\python.exe -m glad --profile=compatibility --out-path=D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build --api= --generator=c --extensions= --spec=gl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GRAPHICS\RINTHEL_KWON\OPENGL_EXAMPLE\BUILD\DEP_GLAD-PREFIX\SRC\DEP_GLAD-BUILD\CMAKEFILES\C54FDAA6146B0D878F9F579A292D8EE3\GLAD-GENERATE-FILES.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GRAPHICS\RINTHEL_KWON\OPENGL_EXAMPLE\BUILD\DEP_GLAD-PREFIX\SRC\DEP_GLAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad -BD:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build --check-stamp-file D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

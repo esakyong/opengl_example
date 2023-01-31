@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_glad"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/1392f37aa82498c65f01fbd23a084574/dep_glad.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/c9ffe6a544df65784ccdcbe9af9d443b/dep_glad-complete.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-build.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-configure.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-download.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-install.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-mkdir.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-patch.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-test.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/f9fee5ee916201b23198845372ae0878/dep_glad-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glad"
+		],
+		"name" : "dep_glad"
+	}
+}

@@ -1,0 +1,372 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opengl_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-73d7344f83db56a7e56e.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-ab4a8f9ee67bde2440be.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glad-Debug-dcc0c41b723d49b47436.json",
+					"name" : "dep_glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glfw-Debug-8133100caddfe8d7003e.json",
+					"name" : "dep_glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_spdlog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_spdlog-Debug-c4499445cb83a92a086b.json",
+					"name" : "dep_spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opengl_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opengl_example-Debug-fc3d4933cb90bb5bb310.json",
+					"name" : "opengl_example",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opengl_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-73d7344f83db56a7e56e.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-ab4a8f9ee67bde2440be.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glad-Release-dcc0c41b723d49b47436.json",
+					"name" : "dep_glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glfw-Release-8133100caddfe8d7003e.json",
+					"name" : "dep_glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_spdlog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_spdlog-Release-c4499445cb83a92a086b.json",
+					"name" : "dep_spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opengl_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opengl_example-Release-63eb69457ab1d0eeb99a.json",
+					"name" : "opengl_example",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opengl_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-73d7344f83db56a7e56e.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-ab4a8f9ee67bde2440be.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glad-MinSizeRel-dcc0c41b723d49b47436.json",
+					"name" : "dep_glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glfw-MinSizeRel-8133100caddfe8d7003e.json",
+					"name" : "dep_glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_spdlog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_spdlog-MinSizeRel-c4499445cb83a92a086b.json",
+					"name" : "dep_spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opengl_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opengl_example-MinSizeRel-81c75543e61c9affb6db.json",
+					"name" : "opengl_example",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opengl_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-73d7344f83db56a7e56e.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-ab4a8f9ee67bde2440be.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glad-RelWithDebInfo-dcc0c41b723d49b47436.json",
+					"name" : "dep_glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_glfw-RelWithDebInfo-8133100caddfe8d7003e.json",
+					"name" : "dep_glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dep_spdlog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dep_spdlog-RelWithDebInfo-c4499445cb83a92a086b.json",
+					"name" : "dep_spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opengl_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opengl_example-RelWithDebInfo-edbc41df98bed69df932.json",
+					"name" : "opengl_example",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/graphics/Rinthel_Kwon/opengl_example/build",
+		"source" : "D:/graphics/Rinthel_Kwon/opengl_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

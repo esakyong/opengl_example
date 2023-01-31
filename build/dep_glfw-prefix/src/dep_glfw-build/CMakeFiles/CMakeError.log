@@ -1,0 +1,63 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/CMakeScratch/TryCompile-h1jfzs
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_c43f4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30147(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.c
+  cl /c /I"D:\coding\startCpp\Game\Pong\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c43f4.dir\Debug\\" /Fd"cmTC_c43f4.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-h1jfzs\src.c"
+D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-h1jfzs\src.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-h1jfzs\cmTC_c43f4.vcxproj]
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/CMakeScratch/TryCompile-93og64
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_af0ab.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30147(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"D:\coding\startCpp\Game\Pong\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_af0ab.dir\Debug\\" /Fd"cmTC_af0ab.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-93og64\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 'pthreads.lib' 파일을 열 수 없습니다. [D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-93og64\cmTC_af0ab.vcxproj]
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/CMakeScratch/TryCompile-hs8jzv
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_bd191.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30147(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"D:\coding\startCpp\Game\Pong\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bd191.dir\Debug\\" /Fd"cmTC_bd191.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-hs8jzv\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 'pthread.lib' 파일을 열 수 없습니다. [D:\graphics\Rinthel_Kwon\opengl_example\build\dep_glfw-prefix\src\dep_glfw-build\CMakeFiles\CMakeScratch\TryCompile-hs8jzv\cmTC_bd191.vcxproj]
+
+
+

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_spdlog"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/1392f37aa82498c65f01fbd23a084574/dep_spdlog.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/c9ffe6a544df65784ccdcbe9af9d443b/dep_spdlog-complete.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-build.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-configure.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-download.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-install.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-mkdir.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-patch.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-test.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/cffd0a184686c184fbe99b8c2d2ca386/dep_spdlog-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_spdlog"
+		],
+		"name" : "dep_spdlog"
+	}
+}

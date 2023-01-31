@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\f9fee5ee916201b23198845372ae0878\dep_glad-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\c9ffe6a544df65784ccdcbe9af9d443b\dep_glad-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\1392f37aa82498c65f01fbd23a084574\dep_glad.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\graphics\Rinthel_Kwon\opengl_example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\graphics\Rinthel_Kwon\opengl_example\build\CMakeFiles\dep_glad" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{064A5C5D-6F7C-3B10-A39B-CE0BDBA34527}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

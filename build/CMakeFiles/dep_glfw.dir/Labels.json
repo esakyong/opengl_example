@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_glfw"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/1392f37aa82498c65f01fbd23a084574/dep_glfw.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/c9ffe6a544df65784ccdcbe9af9d443b/dep_glfw-complete.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-build.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-configure.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-download.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-install.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-mkdir.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-patch.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-test.rule"
+		},
+		{
+			"file" : "D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/3a4964e8b5bc0b958651906ab3a0c553/dep_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glfw"
+		],
+		"name" : "dep_glfw"
+	}
+}
