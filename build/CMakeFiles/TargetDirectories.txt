@@ -1,6 +1,0 @@
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/opengl_example.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_spdlog.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_glfw.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/dep_glad.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/ALL_BUILD.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/CMakeFiles/ZERO_CHECK.dir

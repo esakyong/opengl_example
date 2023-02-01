@@ -1,8 +1,0 @@
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/include/GLFW/glfw3.h
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/include/GLFW/glfw3native.h
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glfw3/glfw3Config.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glfw3/glfw3Targets.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/pkgconfig/glfw3.pc
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/glfw3.lib

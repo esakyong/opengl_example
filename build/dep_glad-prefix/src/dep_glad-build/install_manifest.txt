@@ -1,7 +1,0 @@
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/glad.lib
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/include/glad/glad.h
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/include/KHR/khrplatform.h
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glad/gladConfig.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glad/gladConfigVersion.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glad/gladTargets.cmake
-D:/graphics/Rinthel_Kwon/opengl_example/build/install/lib/cmake/glad/gladTargets-debug.cmake

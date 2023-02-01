@@ -1,5 +1,0 @@
-D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad-generate-files.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/INSTALL.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/ALL_BUILD.dir
-D:/graphics/Rinthel_Kwon/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/ZERO_CHECK.dir
